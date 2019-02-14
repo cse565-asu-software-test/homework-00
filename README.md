@@ -1,6 +1,6 @@
 # Homework-00
 
-Welcome CCSCNE to your first [GitHub Classroom Assignment](https://classroom.github.com)! 
+Welcome ASU CSE 565 to your first [GitHub Classroom Assignment](https://classroom.github.com)! 
 
 In this assignment, we will be writing code to display `Hello World`! 
 
